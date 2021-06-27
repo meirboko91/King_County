@@ -1,5 +1,5 @@
 # Main Purpose
-
+Can we predict the main component to the price of an apartment
 
 # Import Data
 
@@ -17,3 +17,5 @@ Explaining the data through graphs<br/>
 
 
 # Machine Learning
+Split data<br/>
+The results we got make perfect sense, house prices depend on the size
